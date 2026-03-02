@@ -1,0 +1,8 @@
+/**
+@mainpage S115 SoftDevice 10.0.0-1.prototype API - nRF54L variant
+
+@brief This variant of the S115 SoftDevice can be used for the following SoCs: nRF54L15, nRF54L10, and nRF54L05.
+
+<a href="topics.html">API Reference</a>
+
+*/
